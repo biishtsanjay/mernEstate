@@ -1,6 +1,6 @@
 <h1>REALTY RADAR - A Realty Website - MERN Application</h1>
 
-LINK -> <link to='https://mernestate-7snd.onrender.com/'>https://mernestate-7snd.onrender.com/</link>
+LINK -> <link to='https://mernestate-7snd.onrender.com/' target=”_blank”>https://mernestate-7snd.onrender.com/</link>
 
 <h2>The initial loading time may be slightly longer because of  free tier of hosting service.</h2>
 

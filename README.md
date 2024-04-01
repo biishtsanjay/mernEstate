@@ -45,3 +45,10 @@ Contributing🫡
 Feel free to contribute by opening issues or submitting pull requests.
 
 Note: Customize the sections, URLs, and details based on your project's specific requirements.
+
+<img width="1433" alt="Screenshot 2024-04-01 at 12 25 15 PM" src="https://github.com/biishtsanjay/mernEstate/assets/69279043/a7005184-07e0-460b-9fa8-823cd9957e04">
+<img width="1430" alt="Screenshot 2024-04-01 at 6 47 01 PM" src="https://github.com/biishtsanjay/mernEstate/assets/69279043/8d462274-8146-4853-bc5c-797406ee0968">
+
+<img width="1429" alt="Screenshot 2024-04-01 at 12 25 03 PM" src="https://github.com/biishtsanjay/mernEstate/assets/69279043/87df2bce-d5b8-4c95-a567-76a247f70e07">
+<img width="1435" alt="Screenshot 2024-04-01 at 12 30 09 PM" src="https://github.com/biishtsanjay/mernEstate/assets/69279043/bf0ad3f1-bb4b-49b7-8c93-1677bff4d238">
+<img width="1426" alt="Screenshot 2024-04-01 at 12 25 49 PM" src="https://github.com/biishtsanjay/mernEstate/assets/69279043/2a27570d-1544-47b1-b282-e5274ae5110d">

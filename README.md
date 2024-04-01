@@ -1,5 +1,7 @@
 <h1>REALTY RADAR - A Realty Website - MERN Application</h1>
-- ![#f03c15](The initial loading time may be slightly longer because of  free tier of hosting service) `#f03c15`
+```diff
+- The initial loading time may be slightly longer because of  free tier of hosting service.
+```
 
 Overview ⬇️
 This React.js application serves as a feature-rich realty platform, offering a seamless and engaging user experience for buy ,sell ,rent, etc,. of your property.

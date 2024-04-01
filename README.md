@@ -1,7 +1,8 @@
 <h1>REALTY RADAR - A Realty Website - MERN Application</h1>
-```diff
-- The initial loading time may be slightly longer because of  free tier of hosting service.
-```
+
+LINK -> <link to='https://mernestate-7snd.onrender.com/'>https://mernestate-7snd.onrender.com/</link>
+
+<h2>The initial loading time may be slightly longer because of  free tier of hosting service.</h2>
 
 Overview ⬇️
 This React.js application serves as a feature-rich realty platform, offering a seamless and engaging user experience for buy ,sell ,rent, etc,. of your property.

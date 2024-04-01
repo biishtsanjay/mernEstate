@@ -5,9 +5,11 @@ LINK -> <h2>https://mernestate-7snd.onrender.com/</h2>
 <h2>The initial loading time may be slightly longer because of  free tier of hosting service.</h2>
 
 Overview ⬇️
+
 This React.js application serves as a feature-rich realty platform, offering a seamless and engaging user experience for buy ,sell ,rent, etc,. of your property.
 
 Features🚀
+
 A highly scalable, responsive and performant realty platform  🎬 .
 Achieved reduction in loading time and optimized search functionality through debouncing , thus reducing network calls.
 Responsive Design: Ensures optimal viewing experience across devices.
@@ -16,6 +18,7 @@ User Profile 🧑‍💼: Personalized user profiles for enhanced customization.
 Authentication: Can do a simple signup and then login, or signup with your google account.
 
 Tech Stack🧨
+
 NodeJs.
 MongoDB.
 React.js ⚛️: : Frontend library for building user interfaces.
@@ -26,16 +29,19 @@ Tailwind CSS 😍.
 Firebase.
 
 Installation🥸
+
 Clone the repository: git clone https://github.com/biishtsanjay/mernEstate.git
 Navigate to the project directory: cd video_app_yt
 Install dependencies: npm install
 Start the application: npm start
 
 Usage
+
 Access the application at http://localhost:5173 by default.
 Signup and explore the platform, add and search for content, and enjoy a personalized experience.
 
 Contributing🫡
+
 Feel free to contribute by opening issues or submitting pull requests.
 
 Note: Customize the sections, URLs, and details based on your project's specific requirements.
